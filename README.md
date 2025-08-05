@@ -24,7 +24,7 @@ Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 - [Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
 - [3D Viewer](#3d-viewer)
 - [Virtual Environment Visualization](#virtual-environment-visualization)
-- [Anatomy VR](#anatomy-rv)
+- [Anatomy VR](#anatomy-vr)
 - [Replay VR](#replay-vr)
 - [Football AR](#football-ar)
 - [Prototype of a Remote Assistance System](#prototype-of-a-remote-assistance-system)
