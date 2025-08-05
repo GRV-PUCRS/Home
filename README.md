@@ -93,7 +93,6 @@ In addition to passive visualization, the application includes an interactive ro
 Demonstration:
 - Demo: https://youtube.com/shorts/Z0NKr-hXEB8?feature=share
 
-<a name="replay-vr"></a>
 ### Replay VR
 
 This mobile VR application allows users to visualize football plays in an immersive 3D environment using just a smartphone. Users can download match plays or tactical scenarios from a remote server and experience them in VR using a compatible headset, such as a cardboard viewer.
