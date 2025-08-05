@@ -51,24 +51,70 @@ Demonstration:
 Publication DOI: Not yet published
 
 
-### 3D Viewer 
+### 3D Viewer
 
-This Virtual Reality (VR) application allows users to dynamically download 3D models from a remote server and place them into the current scene in real time. Through an in-app interface, users can browse available models, preview them, and import them directly into the environment without restarting the application. This feature enables flexible scene composition and supports modular content loading.
+This VR application allows users to dynamically download 3D models from a remote server and place them into the current scene in real time. Through an in-app interface, users can browse available models, preview them, and import them directly into the environment without restarting the application. This feature enables flexible scene composition and supports modular content loading.
 
 Once added, the objects can be manipulated using VR controllers, allowing for intuitive interactions such as grabbing, rotating, and scaling. The system is designed for applications that require adaptable environments, such as training simulations, educational tools, and rapid prototyping in immersive spaces.
 
+Demonstration: 
+- Demo:
+
+### Virtual Environment Visualization 
+
+This application provides a simple and immersive way to visualize virtual environments in Virtual Reality (VR). Users can explore pre-designed 3D scenes using a VR headset, experiencing realistic scale, depth, and spatial layout.
+
+The application supports basic navigation through teleportation or smooth locomotion, allowing users to move freely and observe the environment from different perspectives. It is ideal for presenting architectural models, virtual walkthroughs, or conceptual spaces in an interactive and engaging format.
+
 Demonstration:
-- 
+- Demo:
 
 
-- 3D Viewer
-- Visualização do prédio de IA
-- Visualiza 6 andar PUCRS
-- VR Anatomy
-- Criação de ambiente para visualização imersiva
-- Caça ao tesouro
-- Replay de jogadas em RV
-- Posicionar jogador em AR
-- Monitor Respiratorio
-- Prototipo de um sistema de assistência remota
-- Visualização de dados simulados
+### Anatomy VR
+This VR application allows users to explore and interact with a 3D human body in an immersive and educational environment. The user can toggle the visibility of different body systems and individual organs, enabling a layered understanding of human anatomy. This feature helps learners focus on specific structures, such as the skeletal, muscular, or circulatory systems, by isolating or combining them as needed.
+
+In addition to passive visualization, the application includes an interactive room where users engage in a game-like activity: placing organs in their correct anatomical positions. Using VR controllers, users can grab organs and attempt to fit them into the appropriate location within a virtual body model. This hands-on approach reinforces learning through spatial awareness and active participation, making it a valuable tool for education, training, and engagement in anatomy-related fields.
+
+Demonstration:
+- Demo: https://youtube.com/shorts/ePBy3jvEcro
+
+
+### Replay VR
+
+This mobile VR application allows users to visualize football plays in an immersive 3D environment using just a smartphone. Users can download match plays or tactical scenarios from a remote server and experience them in VR using a compatible headset, such as a cardboard viewer.
+
+The application offers multiple camera angles and perspectives, including player view, top-down tactical view, and free navigation mode. This enables users to analyze plays from different viewpoints, enhancing understanding of positioning, movement, and strategy. Designed for coaches, players, and fans, the app combines portability with immersive visualization, making football analysis more interactive and accessible.
+
+
+Demonstration:
+- Demo: https://youtu.be/DELOkUuWptk
+
+
+### Football AR
+
+This AR application allows users to place and interact with 3D football models in their real-world environment using a mobile device. The app detects flat surfaces (such as floors or tables) through plane detection and enables users to instantiate models, adjust their scale, and remove them as needed.
+
+One key feature is the ability to spawn 3D player models and compare their height with the user’s own in real space, providing a fun and intuitive sense of scale. Users can visualize individual players, referees, or equipment in AR, making it an engaging tool for education, sports analysis, or fan interaction. The app combines spatial awareness and interactive controls to bring football closer to the real world.
+
+
+Demonstration:
+- Demo: https://youtu.be/im8NXiP_EZM
+
+
+### Prototype of a Remote Assistance System
+
+A system that allows the remote connection of a client application to the Oculus Quest and a Desktop server. The client identifies a tag in the environment and records its point of view and sends the frames to the server, which visualizes it and instantiates virtual objects in the client's field of view.
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=JWfYCmh9_Lc
+
+### Visualization of Simulated Data
+
+This work proposes an immersive data visualization of the population of medical centers to assist in the analysis and development of new strategies to deal with overcrowding situations. The prototype allows the visualization of crowd data located in places of interest on top of a 3D map. The user can view the number of people present at the location at the current stage of the simulation or over time. To test the prototype, data from an infectious disease simulator was used, called LODUS. The results showed that the application has potential for visualizing this type of data.
+
+Demonstration:
+- Demo: https://youtu.be/4V0jtnxy-Ik
+
+Publication DOI: [10.1109/COMPSAC61105.2024.00287](https://ieeexplore.ieee.org/abstract/document/10633306)
+
+For more applicatios and publications: https://grv.inf.pucrs.br/
