@@ -13,7 +13,7 @@ Our work ranges from investigating new methodologies for building immersive expe
 - Image Processing and Computer Vision applied to immersive environments, motion tracking, object recognition, and scene reconstruction
 
 ## Website
-You can access some of our previous work on the GRV website.
+You can access some of our previous work on the [GRV website](https://grv.inf.pucrs.br/).
 
 ## Contact
 Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
