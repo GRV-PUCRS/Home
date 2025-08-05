@@ -1,30 +1,29 @@
-# Grupo de Realidade Virtual - PUCRS
-Este é o repositório oficial do Grupo de Realidade Virtual (GRV) da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). O grupo está localizado na sala 601 no 6º andar, prédio 32.
-Somos um grupo de pesquisa e desenvolvimento dedicado à criação, avaliação e aplicação de tecnologias imersivas, como Realidade Virtual (VR), Realidade Aumentada (AR) e Realidade Mista (MR), com foco em inovação para educação, treinamento e simulações interativas.
+# Virtual Reality Group - PUCRS
+This is the official repository of the Virtual Reality Group (GRV) at the Pontifical Catholic University of Rio Grande do Sul (PUCRS). The group is located in room 601 on the 6th floor of building 32.
+We are a research and development group dedicated to the creation, evaluation, and application of immersive technologies such as Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR), with a focus on innovation for education, training, and interactive simulations.
 
-Nosso trabalho envolve desde a investigação de novas metodologias para construção de experiências imersivas até o desenvolvimento de aplicações práticas em parceria com áreas como a indústria, saúde e educação.
+Our work ranges from investigating new methodologies for building immersive experiences to developing practical applications in collaboration with fields such as industry, healthcare, and education.
 
-## Áreas de Atuação
-- Desenvolvimento de sistemas em VR/AR/MR
-- Frameworks para criação de treinamentos imersivos
-- Interfaces naturais e interações com mãos e voz
-- Simulações para ensino e capacitação
-- Avaliação de usabilidade e impacto cognitivo
-- Processamento de Imagem e Visão Computacional aplicados a ambientes imersivos, rastreamento de movimentos, reconhecimento de objetos e reconstrução de cenas
+## Areas of Expertise
+- Development of VR/AR/MR systems
+- Frameworks for immersive training creation
+- Natural interfaces and interaction using hands and voice
+- Simulations for teaching and training
+- Usability evaluation and cognitive impact assessment
+- Image Processing and Computer Vision applied to immersive environments, motion tracking, object recognition, and scene reconstruction
 
-## Site
-Você pode acessar algum trabalhos antigos no [site do GRV](https://grv.inf.pucrs.br/).
+## Website
+You can access some of our previous work on the GRV website.
 
-## Contato
-Orientador: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
+## Contact
+Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 
-
-## Trabalhos
+## Projects
 
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
 
-![Print]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/GRV-PUCRS/Home/blob/main/images/Editor_AR-1.png))
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Editor_AR-1.png)
 
 Demonstrations:
 - Demo 1: https://youtu.be/jdlCe3VMLnM
@@ -38,6 +37,8 @@ Publication DOI: [10.1109/ICALT58122.2023.00087](https://ieeexplore.ieee.org/abs
 
 This work proposes a framework for the development of Treasure Hunt games using Augmented Reality for educational purposes. The Framework is based on markers and allows the insertion of clues in the form of a simple instruction or an objective question with multiple choices along with 3D models anchored on the marker. Our main contribution was the development of a method for editing the game directly on the display device, without the need to adjust the content in a desktop editor and with low complexity of use. Overall, the framework was able to create Treasure Hunt applications in an easy and intuitive way.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/TreasureHunt-1.png)
+
 Demonstration:
 - Demo: https://youtu.be/wBvHDcjQL2E
 
@@ -46,6 +47,9 @@ Publication DOI: [10.1145/3625008.3625050](https://dl.acm.org/doi/abs/10.1145/36
 ### Video Respiratory Monitor (Best paper of COMPSAC 2025)
 
 This study aimed to assess the synchronization between a new respiratory video-based motion monitor and the spontaneous breathing of premature infants on noninvasive mechanical ventilation. The experimental setup involved placing a tag on the infant’s chest and abdomen, capturing their breathing with a camera, and comparing the video data with the ventilator's readings. The video monitor proved more accurate than the respirator, detecting 93.3% of respiratory movements versus 73.2% by the respirator. The video also detected the onset of breathing earlier than the respirator. The video monitor showed good precision and potential clinical benefits for premature infants, offering a noninvasive, cost-effective alternative for respiratory monitoring. Further studies are needed to refine its performance in various settings.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/VideoMonitor-1.png)
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/VideoMonitor-2.png)
 
 Demonstration:
 - Demo: https://www.youtube.com/watch?v=qi42qupl5zI
@@ -68,6 +72,8 @@ This application provides a simple and immersive way to visualize virtual enviro
 
 The application supports basic navigation through teleportation or smooth locomotion, allowing users to move freely and observe the environment from different perspectives. It is ideal for presenting architectural models, virtual walkthroughs, or conceptual spaces in an interactive and engaging format.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/VRVisualization-1.png)
+
 Demonstration:
 - Demo - Grupo IA: https://youtube.com/shorts/7wCi7SY2xQ4?feature=share
 - Demo - Prédio 32, 6o andar: https://youtube.com/shorts/n7NKA79vg_4?feature=share
@@ -79,6 +85,8 @@ This VR application allows users to explore and interact with a 3D human body in
 
 In addition to passive visualization, the application includes an interactive room where users engage in a game-like activity: placing organs in their correct anatomical positions. Using VR controllers, users can grab organs and attempt to fit them into the appropriate location within a virtual body model. This hands-on approach reinforces learning through spatial awareness and active participation, making it a valuable tool for education, training, and engagement in anatomy-related fields.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/AnatomyVR-1.png)
+
 Demonstration:
 - Demo: https://youtube.com/shorts/Z0NKr-hXEB8?feature=share
 
@@ -89,6 +97,7 @@ This mobile VR application allows users to visualize football plays in an immers
 
 The application offers multiple camera angles and perspectives, including player view, top-down tactical view, and free navigation mode. This enables users to analyze plays from different viewpoints, enhancing understanding of positioning, movement, and strategy. Designed for coaches, players, and fans, the app combines portability with immersive visualization, making football analysis more interactive and accessible.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/AnatomyReplayVR-1.png)
 
 Demonstration:
 - Demo: https://youtu.be/DELOkUuWptk
@@ -100,6 +109,7 @@ This AR application allows users to place and interact with 3D football models i
 
 One key feature is the ability to spawn 3D player models and compare their height with the user’s own in real space, providing a fun and intuitive sense of scale. Users can visualize individual players, referees, or equipment in AR, making it an engaging tool for education, sports analysis, or fan interaction. The app combines spatial awareness and interactive controls to bring football closer to the real world.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/FootballAR-1.png)
 
 Demonstration:
 - Demo: https://youtu.be/im8NXiP_EZM
@@ -109,12 +119,16 @@ Demonstration:
 
 A system that allows the remote connection of a client application to the Oculus Quest and a Desktop server. The client identifies a tag in the environment and records its point of view and sends the frames to the server, which visualizes it and instantiates virtual objects in the client's field of view.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/RemoteAssistance-1.png)
+
 Demonstration:
 - Demo: https://www.youtube.com/watch?v=JWfYCmh9_Lc
 
 ### Visualization of Simulated Data
 
 This work proposes an immersive data visualization of the population of medical centers to assist in the analysis and development of new strategies to deal with overcrowding situations. The prototype allows the visualization of crowd data located in places of interest on top of a 3D map. The user can view the number of people present at the location at the current stage of the simulation or over time. To test the prototype, data from an infectious disease simulator was used, called LODUS. The results showed that the application has potential for visualizing this type of data.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/SimulatedDataVisualization-1.png)
 
 Demonstration:
 - Demo: https://youtu.be/4V0jtnxy-Ik
