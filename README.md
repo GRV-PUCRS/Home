@@ -20,6 +20,9 @@ Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 
 ## Projects
 
+- [Replay VR](#replay-vr).
+
+
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
 
@@ -90,14 +93,14 @@ In addition to passive visualization, the application includes an interactive ro
 Demonstration:
 - Demo: https://youtube.com/shorts/Z0NKr-hXEB8?feature=share
 
-
+<a name="replay-vr"></a>
 ### Replay VR
 
 This mobile VR application allows users to visualize football plays in an immersive 3D environment using just a smartphone. Users can download match plays or tactical scenarios from a remote server and experience them in VR using a compatible headset, such as a cardboard viewer.
 
 The application offers multiple camera angles and perspectives, including player view, top-down tactical view, and free navigation mode. This enables users to analyze plays from different viewpoints, enhancing understanding of positioning, movement, and strategy. Designed for coaches, players, and fans, the app combines portability with immersive visualization, making football analysis more interactive and accessible.
 
-![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/AnatomyReplayVR-1.png)
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/ReplayVR-1.png)
 
 Demonstration:
 - Demo: https://youtu.be/DELOkUuWptk
