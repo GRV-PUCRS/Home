@@ -21,28 +21,25 @@ Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 ## Projects
 - [[2025] Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
 - [[2025] 3D Viewer](#3d-viewer)
-- [[2025 Virtual Environment Visualization](#virtual-environment-visualization)
+- [[2025] Virtual Environment Visualization](#virtual-environment-visualization)
 - [[2024] Visualization of Simulated Data](#visualization-of-simulated-data)
 - [[2024] Treasure Hunt AR](#treasureHunt-ar)
 - [[2023] Editor AR](#editor-ar)
 - [[2022] Prototype of a Remote Assistance System](#prototype-of-a-remote-assistance-system)
 - [[2021] Replay VR](#replay-vr)
 - [[2021] Football AR](#football-ar)
-- [[2021] Immersive telepresence on the operation of unmanned vehicles]
-- [[2019] Exergames for Elderly People]
-- [[2019] Study for a Tactile Device for Visually Impaired People]
-- [[2019] Evaluation of Selection Techniques on a Mobile Augmented Reality Game]
-- [[2018] Traffic Simulator]
-- [[2018] Music Game]
-- [[2017] EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control]
-- [[2017] Usage of tactile feedback to assist cooperative object manipulations in virtual environments]
-- [[2017] SculptAR: An Augmented Reality Interaction System]
-- [[2017] Evaluating the Use of Virtual Reality on Professional Robotics Education]
-- [[2016] Dental Simulator for Endodontic Access Cavity Preparation]
-- [[2011] Virtual Environments for Post-traumatic Stress Disorder Treatment]
+- [[2021] Anatomy VR](#anatomy-vr)
+- [[2019] Exergames for Elderly People](#exergames-for-elderly-people)
+- [[2019] Evaluation of Selection Techniques on a Mobile Augmented Reality Game](#evaluation-of-selection-techniques-on-a-mobile-augmented-reality-game)
+- [[2018] Traffic Simulator](#traffic-simulator)
+- [[2018] Music Game](#music-game)
+- [[2017] EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control](#ego-exo-a-cooperative-manipulation-technique-with-automatic-viewpoint-control)
+- [[2017] Usage of tactile feedback to assist cooperative object manipulations in virtual environments](#usage-of-tactile-feedback-to-assist-cooperative-object-manipulations-in-virtual-environments)
+- [[2017] SculptAR: An Augmented Reality Interaction System](#sculptar-an-augmented-reality-interaction-system)
+- [[2017] Evaluating the Use of Virtual Reality on Professional Robotics Education](#evaluating-the-use-of-virtual-reality-on-professional-robotics-education)
+- [[2016] Dental Simulator for Endodontic Access Cavity Preparation](#dental-simulator-for-endodontic-access-cavity-preparation)
+- [[2011] Virtual Environments for Post-traumatic Stress Disorder Treatment](#virtual-environments-for-post-traumatic-stress-disorder-treatment)
 
-
-- [[Anatomy VR](#anatomy-vr)
 
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
@@ -159,15 +156,50 @@ Demonstration:
 
 Publication DOI: [10.1109/COMPSAC61105.2024.00287](https://ieeexplore.ieee.org/abstract/document/10633306)
 
-### Immersive telepresence on the operation of unmanned vehicles
 ### Exergames for Elderly People
-### Study for a Tactile Device for Visually Impaired People
-### Evaluation of Selection Techniques on a Mobile Augmented Reality Game
-### Traffic Simulator
-### Music Game
-### EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control
-### Usage of tactile feedback to assist cooperative object manipulations in virtual environments
+Epidemiological studies suggest that engaging in activities like studying, working, and leisure throughout life helps build cognitive reserve, a form of brain resilience that may reduce the risk of Alzheimer’s Disease. This study investigated the effects of neurorehabilitation using video games controlled by body movements on elderly women with amnestic Mild Cognitive Impairment (aMCI), grouped by educational level. Over 12 weeks, participants underwent cognitive training or took part in psychoeducational sessions (control). Results showed significant memory improvements in those with primary education, some gains in those with secondary education, and no changes in those with higher education. The findings highlight how cognitive training through interactive video games can especially benefit individuals with lower educational backgrounds, potentially aligning their cognitive performance with those of higher-educated peers, driven by neuroplasticity and the motivational aspect of learning in old age.
 
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Exergames-1.png)
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=plimogBZ45Q&embeds_referring_euri=https%3A%2F%2Fgrv.inf.pucrs.br%2F
+
+### Evaluation of Selection Techniques on a Mobile Augmented Reality Game
+Selection is one of the most fundamental tasks performed by humans. In Virtual Reality (VR), a number of interaction techniques have been proposed to deal with this type of task. They can be based on different metaphors, that define how the interaction is performed. However, it is still not clear how these different metaphors perform under Augmented Reality (AR). We performed two experiments to evaluate two of those interaction techniques. One was based on a pointing metaphor, and the other on a surface interaction metaphor. To achieve this result, a game prototype was developed, where users had to apply the selection techniques to reach a goal and win. We evaluated the impact of two different types of devices and two types of crowd simulation (with and without flocking behavior) in the user interaction. The scenario allowed the user to easily navigate around the scene from an overview perspective.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Selection_techniques-1.png)
+
+### Traffic Simulator
+This project has developed a transit simulator for treatment of Post-Traumatic Stress Disorder. Using the simulator the patient drives a car facing many stressfull situations. Figure below shows images of the virtual environment used for the treatment.
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=BoU_Mxh_qSA
+
+### Music Game
+The goal of this project was to develop a game used in the PUCRS 2016 Games Concert, where the orchestra has performed a number of game themes. The aim of the game was to swing a virtual baton on the screen, hitting jumping objects. The conductor's baton was fitted with a Polhemus Fastrak 3D magnetic tracker, in order to realistically provide the virtual baton movements. Additionally, the computer microphone was used to capture the orchestra music in real time, generating the jumping objects according to the music beats.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Music_game-1.png)
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=f9qpPyzqxoQ
+
+### EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control
+Cooperative manipulation techniques allow multiple users to interact with an object together at the same time. This kind of collaboration allow users to solve complex tasks that would be difficult for a single user to perform. The EGOEXO technique proposed in this paper places two collaborating users in asymmetric viewpoint positions. It was developed from the premise that simultaneous control over navigation and manipulation by the user can increase the interaction complexity. Our technique allows one of the users to follow the object being manipulated automatically while the other stays in a fixed position farther away. Our technique separates the degrees of freedom between the two users, matching the degrees to the most suitable viewpoints. Each user interacts with objects using complimentary manipulation techniques, which were chosen based on which degrees they control.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Ego_exo-1.png)
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=8INnapr1878
+
+### Usage of tactile feedback to assist cooperative object manipulations in virtual environments
+The objective of this work is to study the conversion process from the depth information that is acquired from a real scene, into a tactile representation, through the use of a haptic display. The intent is to obtain useful knowledge to support the creation of tools targeted to assist visually impaired subjects, during their navigation tasks, more especially when the path have a significant number of large obstacles along its way.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Study_tactile-1.png)
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=5ZRTgDjvOoA
+
+Publication DOI: [10.1109/SMC.2017.8122976](https://ieeexplore.ieee.org/abstract/document/8122976)
 
 ### SculptAR: An Augmented Reality Interaction System
 SculptAR is a system created for the interaction of users and virtual objects to build art sculptures using augmented reality. It can be used with any device equipped with a camera to display a virtual environment on its screen, where the user can interact by tapping on the display. SculptAR bases itself on AR markers in order to provide a physical reference of the real space where the virtual environment is going to be created. There are three different sets of markers that define which type of sculpture can be created: the Particle System mode, composed of smoke, spark, spray and flare particles, which allows parameter modifications; a Palm Tree mode, with LEGO-like blocks to build a palm tree; and the Fried Sculpture mode to create a Fried sculpture.
