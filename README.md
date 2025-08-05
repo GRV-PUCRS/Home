@@ -24,6 +24,8 @@ Orientador: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
 
+![Print]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/GRV-PUCRS/Home/blob/main/images/Editor_AR-1.png))
+
 Demonstrations:
 - Demo 1: https://youtu.be/jdlCe3VMLnM
 - Demo 2: https://youtu.be/7h-Wn_N4NaI
@@ -67,7 +69,9 @@ This application provides a simple and immersive way to visualize virtual enviro
 The application supports basic navigation through teleportation or smooth locomotion, allowing users to move freely and observe the environment from different perspectives. It is ideal for presenting architectural models, virtual walkthroughs, or conceptual spaces in an interactive and engaging format.
 
 Demonstration:
-- Demo:
+- Demo - Grupo IA: https://youtube.com/shorts/7wCi7SY2xQ4?feature=share
+- Demo - Prédio 32, 6o andar: https://youtube.com/shorts/n7NKA79vg_4?feature=share
+- Demo - Fábrica: https://youtube.com/shorts/Jqvy87qaGzY?feature=share
 
 
 ### Anatomy VR
@@ -76,7 +80,7 @@ This VR application allows users to explore and interact with a 3D human body in
 In addition to passive visualization, the application includes an interactive room where users engage in a game-like activity: placing organs in their correct anatomical positions. Using VR controllers, users can grab organs and attempt to fit them into the appropriate location within a virtual body model. This hands-on approach reinforces learning through spatial awareness and active participation, making it a valuable tool for education, training, and engagement in anatomy-related fields.
 
 Demonstration:
-- Demo: https://youtube.com/shorts/ePBy3jvEcro
+- Demo: https://youtube.com/shorts/Z0NKr-hXEB8?feature=share
 
 
 ### Replay VR
