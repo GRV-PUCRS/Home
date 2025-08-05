@@ -159,10 +159,43 @@ Demonstration:
 
 Publication DOI: [10.1109/COMPSAC61105.2024.00287](https://ieeexplore.ieee.org/abstract/document/10633306)
 
+### Immersive telepresence on the operation of unmanned vehicles
+### Exergames for Elderly People
+### Study for a Tactile Device for Visually Impaired People
+### Evaluation of Selection Techniques on a Mobile Augmented Reality Game
+### Traffic Simulator
+### Music Game
+### EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control
+### Usage of tactile feedback to assist cooperative object manipulations in virtual environments
+
+
+### SculptAR: An Augmented Reality Interaction System
+SculptAR is a system created for the interaction of users and virtual objects to build art sculptures using augmented reality. It can be used with any device equipped with a camera to display a virtual environment on its screen, where the user can interact by tapping on the display. SculptAR bases itself on AR markers in order to provide a physical reference of the real space where the virtual environment is going to be created. There are three different sets of markers that define which type of sculpture can be created: the Particle System mode, composed of smoke, spark, spray and flare particles, which allows parameter modifications; a Palm Tree mode, with LEGO-like blocks to build a palm tree; and the Fried Sculpture mode to create a Fried sculpture.
+
+The interface is designed to be simple and consistent in a way that there is a general flow of actions: the user selects a tool, aims at an object with a pointer and taps the screen to perform the operation.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/SculptAR-1.png)
+
+Demonstration:
+- Demo: https://www.youtube.com/watch?v=Af8NAU_TuHc
+
+### Evaluating the Use of Virtual Reality on Professional Robotics Education
+This work consists of the study of techniques of robotics and virtual reality to develop a simulator that can be used in robotics schools, having an adequate visualization and a simple and intuitive way of interaction. For this, a 3D virtual environment for robotics was developed. Virtual reality resources have been incorporated to improve the visualization and to facilitate the user interaction with the environment. In order to evaluate the effectivity of the environment, user experiments were carried out on four different hardware configurations. During the simulations, the users had to create trajectories while implicitly defining reference points. From these experiments, automatic reports for the quantitative questions were generated, and questionnaires were filled for the qualitative questions. The results have shown that the use of virtual reality do helps the users in task execution, improving the visualization, reducing the time spent for the tasks and increasing the precision.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Robotic_education-1.png)
+
+Publication DOI: [10.1109/COMPSAC.2017.121](https://ieeexplore.ieee.org/abstract/document/8029641)
+
+### Dental Simulator for Endodontic Access Cavity Preparation
+This paper describes a Virtual Reality simulator to perform dentist training in tasks such as the access to the pulp chamber and the preparation of root canal. The simulator consists of a haptic device adapted to simulate the instruments used in dental procedures, a virtual environment simulating the interactions between the haptic device and the tooth being treated and a visualization tool of the simulation.
+
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/Dental_Simulator-1.png)
+
+Publication DOI: [10.1109/ICALT.2016.51](https://ieeexplore.ieee.org/abstract/document/7757041)
 
 ### Virtual Environments for Post-traumatic Stress Disorder Treatment
 This project is developing a study on how virtual environments can be used to treat patients that have developed Post-traumatic Stress Disorder after a bank robbery
 
-
+![alt text](https://github.com/GRV-PUCRS/Home/blob/main/images/post_traumatic-1.png)
 
 For more applicatios and publications: https://grv.inf.pucrs.br/
