@@ -19,8 +19,17 @@ You can access some of our previous work on the GRV website.
 Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 
 ## Projects
+- [Editor AR](#editor-ar)
+- [Treasure Hunt AR](#treasureHunt-ar)
+- [Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
+- [3D Viewer](#3d-viewer)
+- [Virtual Environment Visualization](#virtual-environment-visualization)
+- [Anatomy VR](#anatomy-rv)
+- [Replay VR](#replay-vr)
+- [Football AR](#football-ar)
+- [Prototype of a Remote Assistance System](#prototype-of-a-remote-assistance-system)
+- [Visualization of Simulated Data](#visualization-of-simulated-data)
 
-- [Replay VR](#replay-vr).
 
 
 ### Editor AR
@@ -47,6 +56,7 @@ Demonstration:
 
 Publication DOI: [10.1145/3625008.3625050](https://dl.acm.org/doi/abs/10.1145/3625008.3625050)
 
+<a name="video-monitor"></a>
 ### Video Respiratory Monitor (Best paper of COMPSAC 2025)
 
 This study aimed to assess the synchronization between a new respiratory video-based motion monitor and the spontaneous breathing of premature infants on noninvasive mechanical ventilation. The experimental setup involved placing a tag on the infant’s chest and abdomen, capturing their breathing with a camera, and comparing the video data with the ventilator's readings. The video monitor proved more accurate than the respirator, detecting 93.3% of respiratory movements versus 73.2% by the respirator. The video also detected the onset of breathing earlier than the respirator. The video monitor showed good precision and potential clinical benefits for premature infants, offering a noninvasive, cost-effective alternative for respiratory monitoring. Further studies are needed to refine its performance in various settings.
