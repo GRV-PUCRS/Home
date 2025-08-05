@@ -19,18 +19,30 @@ You can access some of our previous work on the [GRV website](https://grv.inf.pu
 Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 
 ## Projects
-- [Editor AR](#editor-ar)
-- [Treasure Hunt AR](#treasureHunt-ar)
-- [Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
-- [3D Viewer](#3d-viewer)
-- [Virtual Environment Visualization](#virtual-environment-visualization)
-- [Anatomy VR](#anatomy-vr)
-- [Replay VR](#replay-vr)
-- [Football AR](#football-ar)
-- [Prototype of a Remote Assistance System](#prototype-of-a-remote-assistance-system)
-- [Visualization of Simulated Data](#visualization-of-simulated-data)
+- [[2025] Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
+- [[2025] 3D Viewer](#3d-viewer)
+- [[2025 Virtual Environment Visualization](#virtual-environment-visualization)
+- [[2024] Visualization of Simulated Data](#visualization-of-simulated-data)
+- [[2024] Treasure Hunt AR](#treasureHunt-ar)
+- [[2023] Editor AR](#editor-ar)
+- [[2022] Prototype of a Remote Assistance System](#prototype-of-a-remote-assistance-system)
+- [[2021] Replay VR](#replay-vr)
+- [[2021] Football AR](#football-ar)
+- [[2021] Immersive telepresence on the operation of unmanned vehicles]
+- [[2019] Exergames for Elderly People]
+- [[2019] Study for a Tactile Device for Visually Impaired People]
+- [[2019] Evaluation of Selection Techniques on a Mobile Augmented Reality Game]
+- [[2018] Traffic Simulator]
+- [[2018] Music Game]
+- [[2017] EGO-EXO: A Cooperative Manipulation Technique with Automatic Viewpoint Control]
+- [[2017] Usage of tactile feedback to assist cooperative object manipulations in virtual environments]
+- [[2017] SculptAR: An Augmented Reality Interaction System]
+- [[2017] Evaluating the Use of Virtual Reality on Professional Robotics Education]
+- [[2016] Dental Simulator for Endodontic Access Cavity Preparation]
+- [[2011] Virtual Environments for Post-traumatic Stress Disorder Treatment]
 
 
+- [[Anatomy VR](#anatomy-vr)
 
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
@@ -146,5 +158,11 @@ Demonstration:
 - Demo: https://youtu.be/4V0jtnxy-Ik
 
 Publication DOI: [10.1109/COMPSAC61105.2024.00287](https://ieeexplore.ieee.org/abstract/document/10633306)
+
+
+### Virtual Environments for Post-traumatic Stress Disorder Treatment
+This project is developing a study on how virtual environments can be used to treat patients that have developed Post-traumatic Stress Disorder after a bank robbery
+
+
 
 For more applicatios and publications: https://grv.inf.pucrs.br/
